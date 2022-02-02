@@ -1,6 +1,6 @@
 # Validation of openAMUNDSEN model - Rofental
 
-the containing Jupyter Notebooks contain the functions for validating the Rofental Model created by openAMUNDSEN. 
+the containing Jupyter Notebooks contain the functions for validating the Rofental Model created by openAMUNDSEN. And an example validation based on the input files in the results folder.
 
 The processed input files:
 - observed snowdepth from Station AHC1 and AHC3
